@@ -63,6 +63,7 @@ public class FeeStandardDAO {
             stmt.setInt(1, id);
             stmt.executeUpdate();
         }
+        System.out.println("example1");
     }
 
 }
