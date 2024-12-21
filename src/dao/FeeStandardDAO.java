@@ -64,6 +64,7 @@ public class FeeStandardDAO {
             stmt.executeUpdate();
         }
         System.out.println("example1");
+        System.out.println("example2");
     }
 
 }
